@@ -1,0 +1,351 @@
+Age,Gender,Region,Symptoms,Diagnosis,Treatment_Plan,Outcome,Hospitalized_Days,Follow_Up_Needed
+-5,Female,,,Typhoid,Rest,Recovered,0,Yes
+46,Female,North,Body Pain,Typhoid,Therapy,Recovered,7,
+77,Male,,Fatigue,Malaria,Hydration,Recovered,11,Yes
+65,Male,South,Body Pain,Typhoid,,Stable,9,No
+93,Female,West,,Malaria,Medication,Improving,3,No
+56,Male,,Cough,Malaria,Surgery,Deceased,6,No
+63,Female,North,Cough,COVID-19,Therapy,Stable,9,No
+87,Female,,Cough,,Rest,Recovered,7,Yes
+41,Male,West,Fever,Flu,Rest,Recovered,7,Yes
+22,Male,North,Fever,Malaria,,Improving,7,
+77,Female,North,,COVID-19,Therapy,Improving,7,
+86,Female,West,Fatigue,Common Cold,Hydration,Recovered,4,No
+93,Female,,Fatigue,Typhoid,Medication,Critical,6,No
+80,Female,,Fever,Malaria,Medication,Deceased,7,Yes
+93,Female,East,,Common Cold,Therapy,Improving,4,Yes
+-5,Male,East,,COVID-19,Medication,Recovered,9,Yes
+68,Female,South,Fatigue,Common Cold,Hydration,Recovered,7,Yes
+28,Male,South,,Malaria,Therapy,Improving,7,Yes
+64,,South,Fever,COVID-19,Rest,Recovered,10,No
+36,Female,West,Fever,Malaria,Hydration,Recovered,6,No
+4,Male,East,Headache,COVID-19,Surgery,Stable,4,Yes
+6,Female,East,Cough,Malaria,Rest,,11,Yes
+54,Male,North,Fever,Common Cold,Medication,Recovered,11,No
+29,Male,,Fever,Typhoid,Therapy,Recovered,9,
+41,,,Cough,Flu,Therapy,Recovered,10,Yes
+28,Female,North,Fatigue,Flu,Hydration,Recovered,8,No
+73,Male,East,Fatigue,Malaria,Medication,,6,Yes
+24,,North,Cough,Malaria,Rest,Recovered,11,
+64,Male,West,Fever,COVID-19,Therapy,Stable,5,No
+32,Female,West,,Flu,Medication,Recovered,8,Yes
+150,Female,South,,Common Cold,Rest,Deceased,2,
+82,Male,North,Headache,Common Cold,Hydration,Recovered,3,No
+46,Female,North,Body Pain,Malaria,Medication,Recovered,4,No
+41,Male,,Headache,Common Cold,Rest,Stable,1,No
+22,Male,West,Body Pain,COVID-19,Therapy,Recovered,6,No
+4,Male,East,Fever,Typhoid,Hydration,Improving,10,
+84,Male,West,Fatigue,COVID-19,Therapy,Critical,8,No
+61,Female,East,Headache,Common Cold,Medication,Recovered,6,No
+43,Other,West,,,Rest,Recovered,8,Yes
+20,Male,North,Body Pain,Flu,Medication,Recovered,9,Yes
+69,Female,North,Headache,Typhoid,Medication,Recovered,7,Yes
+43,Male,South,Fever,,Hydration,Critical,4,Yes
+47,Female,North,Fatigue,Typhoid,Rest,Recovered,2,Yes
+78,Female,North,Headache,Typhoid,Hydration,,6,No
+29,Female,East,Body Pain,Typhoid,Medication,Recovered,8,No
+150,Male,North,,Typhoid,Medication,Recovered,7,Yes
+97,Female,East,,Typhoid,Medication,Recovered,4,Yes
+97,Male,East,Headache,COVID-19,Therapy,Deceased,0,Yes
+31,Male,,Fatigue,COVID-19,,Recovered,2,No
+47,Female,West,Fatigue,Malaria,Therapy,Recovered,7,Yes
+96,Female,East,Body Pain,COVID-19,Therapy,Recovered,4,No
+13,Male,South,Headache,Common Cold,Therapy,Stable,11,Yes
+63,Male,West,Fatigue,Malaria,Therapy,Recovered,5,Yes
+32,Male,East,Body Pain,COVID-19,Medication,Stable,8,Yes
+90,Male,South,Headache,COVID-19,Surgery,Improving,10,No
+17,Male,North,Fever,Typhoid,Hydration,Recovered,5,No
+1,Female,East,Fever,Malaria,Rest,Recovered,2,Yes
+17,Other,East,,Malaria,Therapy,Recovered,8,Yes
+89,Male,West,Cough,Common Cold,Rest,Recovered,11,
+51,Female,South,Headache,COVID-19,Rest,Recovered,2,No
+150,Female,East,,Common Cold,Rest,Recovered,11,Yes
+75,Female,,Headache,Flu,Hydration,Stable,8,Yes
+97,Male,West,Headache,Malaria,Therapy,Improving,10,Yes
+91,Male,South,Cough,Malaria,Medication,Recovered,8,No
+10,Female,West,Headache,Typhoid,Rest,Improving,5,
+92,Male,South,Cough,COVID-19,Rest,Stable,10,Yes
+14,Female,North,Fatigue,Malaria,Surgery,Improving,3,Yes
+88,,East,Fever,COVID-19,Medication,Improving,2,Yes
+11,Female,West,Fever,Malaria,Hydration,Recovered,4,Yes
+23,Female,North,,Typhoid,Therapy,Recovered,11,No
+30,Male,West,Headache,Malaria,Therapy,Recovered,14,No
+16,Female,West,Headache,Common Cold,Rest,Recovered,12,No
+34,Female,North,Cough,Malaria,Surgery,Recovered,9,Yes
+78,Female,,Headache,Typhoid,Medication,Recovered,9,Yes
+85,Male,North,Fatigue,,Rest,Recovered,3,Yes
+150,Male,North,,Malaria,Medication,Recovered,5,No
+82,Female,East,Headache,COVID-19,Rest,Critical,9,
+83,Female,,Cough,Flu,Therapy,Recovered,2,Yes
+20,Female,,Fatigue,COVID-19,Rest,Recovered,12,Yes
+40,Female,East,Headache,COVID-19,Medication,Stable,8,Yes
+62,Female,West,Fatigue,,Surgery,Recovered,0,Yes
+37,Male,,Cough,Typhoid,Surgery,Recovered,2,Yes
+56,Female,West,Headache,Malaria,Medication,Improving,10,Yes
+68,,East,Fever,,Hydration,Recovered,10,Yes
+36,Female,East,Cough,Typhoid,Hydration,Recovered,5,No
+54,Female,South,Fatigue,Common Cold,,Recovered,9,Yes
+53,Female,West,Headache,COVID-19,Therapy,Recovered,7,No
+41,Female,East,Body Pain,Common Cold,Therapy,Recovered,7,No
+73,,North,Body Pain,Malaria,Therapy,Deceased,6,
+20,Male,West,Fatigue,Common Cold,Hydration,Improving,6,Yes
+-5,Female,East,,Malaria,,Improving,8,No
+20,Female,North,Cough,Flu,Rest,Improving,10,Yes
+36,Female,South,Headache,Typhoid,Medication,Stable,8,Yes
+67,Male,East,Headache,Typhoid,Rest,Recovered,14,No
+88,Male,North,Body Pain,Common Cold,Hydration,Recovered,6,
+0,Female,South,Fatigue,Common Cold,Medication,,10,No
+51,Male,,Body Pain,COVID-19,Rest,Recovered,4,Yes
+91,Female,,Cough,Common Cold,Medication,Stable,12,No
+14,Female,West,,Typhoid,Rest,Improving,9,Yes
+82,,West,Cough,Malaria,Therapy,Critical,12,No
+81,Female,,Headache,Typhoid,,Recovered,3,No
+32,Male,,Fatigue,COVID-19,Medication,Recovered,7,Yes
+17,Male,West,Cough,Common Cold,Medication,Improving,13,No
+48,Male,South,Fever,Typhoid,Rest,Recovered,8,Yes
+58,Male,East,Headache,Typhoid,Medication,Stable,5,Yes
+-5,,South,,Common Cold,Therapy,Improving,5,No
+31,Male,West,Fever,Typhoid,Surgery,Improving,10,No
+67,Female,,Fatigue,,Medication,Improving,11,Yes
+43,Male,East,Cough,Malaria,Rest,Recovered,2,No
+54,Male,,Fever,Malaria,Medication,Critical,4,
+11,Female,North,Body Pain,COVID-19,Medication,Recovered,3,Yes
+56,Male,South,Cough,Malaria,Hydration,Recovered,8,Yes
+84,Male,North,Cough,Malaria,,,3,No
+59,Male,West,Body Pain,Malaria,Medication,Improving,7,
+35,Female,North,Headache,Common Cold,Medication,Improving,10,No
+44,Male,South,Headache,COVID-19,Rest,Critical,6,Yes
+80,Other,West,Fever,Malaria,Hydration,Critical,8,Yes
+75,Female,,Cough,COVID-19,Rest,Deceased,7,Yes
+9,Male,East,Fatigue,Common Cold,Medication,Improving,5,Yes
+25,Female,,Fatigue,Typhoid,Hydration,Stable,4,No
+-5,Female,South,,COVID-19,Rest,Recovered,8,No
+44,Male,East,Cough,COVID-19,Hydration,Improving,7,Yes
+54,Male,West,Fatigue,Common Cold,Medication,Improving,5,Yes
+48,Female,North,Fever,Flu,Rest,Recovered,7,No
+45,Other,South,Headache,Common Cold,Hydration,Recovered,10,Yes
+18,Female,West,Fatigue,Common Cold,Rest,Improving,0,No
+97,Male,North,Cough,COVID-19,Hydration,Recovered,5,Yes
+60,Male,North,Headache,Flu,Surgery,Stable,6,Yes
+69,Male,North,Fever,COVID-19,Medication,Recovered,6,Yes
+19,Male,North,Body Pain,Malaria,Hydration,Improving,9,Yes
+49,Male,East,Body Pain,Typhoid,Therapy,Improving,2,
+17,Male,West,Body Pain,COVID-19,Medication,Stable,9,Yes
+76,Female,East,Fever,Typhoid,Rest,Critical,8,
+30,Male,West,Fever,Malaria,Medication,Recovered,5,Yes
+17,Male,South,Fever,Malaria,Medication,Recovered,5,No
+-5,Female,East,,Malaria,Rest,Stable,7,Yes
+80,Male,East,Body Pain,Common Cold,Rest,Stable,2,Yes
+40,Male,,,COVID-19,Rest,Recovered,10,Yes
+14,Male,East,Cough,Malaria,Therapy,Critical,8,Yes
+26,Male,South,Body Pain,Typhoid,Medication,Recovered,5,Yes
+35,Male,West,Cough,Malaria,Hydration,Deceased,7,Yes
+8,Male,West,Fever,Malaria,Hydration,Recovered,0,No
+80,Female,,Fever,COVID-19,Medication,Recovered,9,Yes
+23,Female,East,Fever,Malaria,,Improving,7,No
+92,Male,,Fever,Typhoid,Therapy,Deceased,10,Yes
+9,Male,South,Fatigue,,Hydration,Improving,5,Yes
+1,Female,East,Cough,Malaria,Hydration,,12,No
+66,Male,West,Body Pain,Typhoid,,Recovered,1,No
+14,Male,,Fever,COVID-19,Medication,Critical,7,Yes
+13,Male,East,Body Pain,Common Cold,Hydration,Stable,3,No
+150,Male,West,,COVID-19,Medication,Recovered,8,Yes
+59,Male,East,Fatigue,Common Cold,Hydration,Critical,14,
+49,Male,,Headache,Common Cold,Medication,Recovered,11,Yes
+11,Male,South,Headache,Flu,Rest,Improving,6,No
+31,Female,,Headache,Typhoid,Medication,Improving,2,No
+45,Female,South,Headache,Typhoid,Medication,Recovered,8,Yes
+33,,West,Fatigue,Malaria,Surgery,Improving,4,
+41,Female,,Fever,Common Cold,Rest,Critical,10,Yes
+16,Male,North,Fever,Malaria,,Improving,1,Yes
+32,Female,North,Fever,Common Cold,Therapy,Recovered,7,Yes
+63,Male,,Headache,COVID-19,Medication,Critical,4,Yes
+94,Female,South,Cough,Malaria,Medication,Stable,9,Yes
+86,Other,South,Fever,Typhoid,Hydration,Critical,9,Yes
+7,Female,East,Body Pain,Typhoid,Medication,Recovered,5,No
+21,Female,West,Fever,Flu,Medication,Recovered,6,Yes
+150,Male,South,,Typhoid,Hydration,Recovered,7,
+85,Male,South,Fever,Flu,Rest,Recovered,6,No
+82,Male,North,Fatigue,Common Cold,Medication,Recovered,10,No
+44,Male,West,Body Pain,Malaria,Rest,Improving,4,Yes
+87,Male,,Cough,COVID-19,Rest,Recovered,3,No
+36,Female,South,Fatigue,COVID-19,Therapy,Recovered,8,Yes
+54,Male,South,Headache,Flu,Hydration,Stable,9,No
+32,Female,West,Headache,Flu,Rest,Improving,7,Yes
+40,Female,East,Fatigue,Malaria,,Improving,5,Yes
+26,Male,,Fatigue,Malaria,Hydration,Deceased,0,Yes
+37,Female,North,Body Pain,Malaria,Medication,Recovered,7,Yes
+82,Female,,Fatigue,Common Cold,Rest,Stable,11,No
+33,Male,North,Cough,Common Cold,,Recovered,8,No
+85,Female,North,Headache,COVID-19,Surgery,Stable,8,Yes
+62,Male,,Headache,Typhoid,Medication,Recovered,5,Yes
+150,Male,East,,Common Cold,,Recovered,1,Yes
+31,Male,West,Fatigue,Typhoid,Medication,Recovered,-1,Yes
+96,Male,West,Cough,Malaria,Medication,Critical,10,
+48,Female,South,Cough,Common Cold,Therapy,Stable,8,No
+29,Male,East,Fatigue,Malaria,Hydration,Stable,12,Yes
+51,Male,North,Cough,COVID-19,Medication,Stable,7,No
+92,Male,South,Cough,,,Recovered,5,No
+85,Male,East,Cough,Typhoid,Rest,Recovered,8,Yes
+9,Male,South,Fever,COVID-19,Medication,Recovered,5,Yes
+91,Male,West,,,Rest,Critical,4,No
+20,Female,,Fatigue,Common Cold,Therapy,Stable,8,
+60,Female,South,Fatigue,Common Cold,Rest,Improving,14,Yes
+51,,,Cough,,Therapy,Critical,10,No
+79,Other,West,Fatigue,COVID-19,Therapy,Critical,4,No
+49,Female,South,Body Pain,COVID-19,Medication,Recovered,3,No
+150,Other,South,,Typhoid,Medication,Recovered,8,No
+69,Female,South,Headache,Malaria,Rest,Recovered,5,No
+56,,West,Cough,Common Cold,Hydration,,4,Yes
+29,Female,,Headache,Malaria,Therapy,Recovered,5,No
+35,Female,East,Fever,Malaria,Therapy,Recovered,7,No
+20,Male,,Body Pain,COVID-19,Therapy,Improving,7,Yes
+39,Male,North,Headache,Typhoid,Medication,Critical,7,Yes
+55,Male,,Body Pain,Typhoid,Medication,Stable,7,
+39,Other,West,Headache,Malaria,Hydration,Stable,10,Yes
+68,Other,East,Fever,Typhoid,,Critical,9,No
+31,Male,South,Body Pain,COVID-19,Hydration,Critical,3,Yes
+47,Female,East,Cough,COVID-19,Medication,Improving,10,No
+8,Male,East,Fatigue,Malaria,Medication,Recovered,6,No
+9,Male,North,Cough,COVID-19,Therapy,,2,Yes
+96,Female,South,Fever,COVID-19,Medication,Critical,6,No
+150,Male,,,COVID-19,Therapy,Deceased,9,No
+6,Male,North,Fever,Malaria,Rest,Stable,9,No
+5,Male,East,Fever,Flu,Rest,Recovered,11,Yes
+75,Female,West,Cough,COVID-19,Hydration,Deceased,2,Yes
+89,Male,North,Fever,Malaria,Medication,Recovered,5,Yes
+62,Male,,Fever,Malaria,Medication,Critical,0,No
+91,,West,Body Pain,Typhoid,,Improving,8,No
+80,Male,,Body Pain,Typhoid,Medication,Critical,4,Yes
+35,Female,North,Fever,Common Cold,Medication,Recovered,10,
+38,Female,East,Cough,Common Cold,Medication,Recovered,4,Yes
+25,Female,,Headache,COVID-19,Therapy,Deceased,4,
+15,Male,West,Cough,Malaria,Hydration,Recovered,2,No
+42,Female,East,Headache,Malaria,Rest,Improving,10,Yes
+1,,South,,COVID-19,Therapy,Stable,1,Yes
+38,Male,South,Headache,COVID-19,Rest,Recovered,9,Yes
+150,Male,South,,Malaria,Medication,Recovered,6,Yes
+43,Male,North,Body Pain,Malaria,Hydration,Recovered,10,Yes
+54,Female,West,Body Pain,Common Cold,Hydration,Recovered,8,Yes
+31,Female,East,Headache,COVID-19,Rest,Recovered,16,Yes
+58,Male,North,Headache,COVID-19,Therapy,Recovered,5,Yes
+0,Female,South,Cough,Common Cold,Medication,Deceased,7,Yes
+96,Female,West,,Malaria,Medication,Improving,7,Yes
+93,Male,West,Cough,Common Cold,Rest,Stable,5,Yes
+89,Male,East,Fatigue,Malaria,Medication,Stable,8,Yes
+58,Male,South,Fatigue,Common Cold,Hydration,Recovered,6,Yes
+65,Female,South,Cough,COVID-19,Rest,Improving,4,Yes
+86,Male,North,Fatigue,COVID-19,Hydration,Recovered,2,
+66,Female,South,Body Pain,Malaria,Hydration,Improving,5,Yes
+57,Female,South,Headache,COVID-19,,Recovered,5,No
+27,Male,North,Fatigue,Typhoid,Medication,Recovered,7,No
+150,Male,West,,Common Cold,Rest,Improving,7,Yes
+99,Female,East,Body Pain,Typhoid,Rest,Recovered,7,Yes
+96,Female,South,Cough,Common Cold,Medication,Stable,2,Yes
+10,Male,,Cough,Common Cold,Therapy,Recovered,8,No
+47,Male,East,Fever,COVID-19,Medication,Improving,8,No
+24,Male,East,Cough,COVID-19,Hydration,Recovered,-1,No
+0,Female,East,Headache,COVID-19,Rest,Recovered,7,Yes
+59,Female,South,Body Pain,COVID-19,Rest,Recovered,6,
+13,Male,,Cough,Common Cold,Surgery,Recovered,3,No
+92,Female,West,Fever,Common Cold,Medication,Stable,5,
+34,Female,West,Headache,COVID-19,Hydration,Recovered,11,
+75,Female,South,Fatigue,Malaria,Rest,Recovered,10,No
+52,Female,South,Headache,,,Critical,5,No
+50,Female,,Fever,COVID-19,Medication,Recovered,10,Yes
+24,Female,East,Headache,Flu,Hydration,Improving,11,Yes
+-5,Other,West,,Malaria,,Recovered,9,
+8,Female,North,Cough,Malaria,Therapy,Critical,3,Yes
+23,Female,West,Cough,Typhoid,Surgery,Recovered,4,Yes
+67,Male,,Fever,Malaria,Rest,Recovered,3,No
+20,Female,West,Fatigue,Malaria,Therapy,Improving,6,Yes
+72,Male,East,Body Pain,Malaria,Medication,Recovered,5,Yes
+2,Male,South,Cough,Malaria,Rest,Deceased,6,Yes
+26,,West,Headache,Typhoid,Medication,Recovered,6,No
+45,Female,East,Fatigue,Malaria,Medication,Recovered,10,Yes
+54,Male,East,Body Pain,Malaria,Rest,Recovered,7,Yes
+19,Female,South,Fatigue,Malaria,,Improving,2,Yes
+4,Female,West,Headache,Typhoid,Medication,Recovered,7,
+76,Male,West,Fever,COVID-19,Hydration,Recovered,8,No
+4,Female,,Cough,Malaria,Hydration,Improving,3,No
+57,Female,East,Headache,Malaria,Therapy,Critical,6,Yes
+150,Female,East,,Malaria,Medication,Recovered,6,Yes
+80,Male,North,Body Pain,COVID-19,,Critical,9,Yes
+65,Male,North,Body Pain,COVID-19,Therapy,Recovered,8,Yes
+57,Male,North,Headache,Common Cold,Rest,Recovered,11,
+96,Other,South,Fever,COVID-19,Medication,Recovered,7,Yes
+67,Female,West,Cough,COVID-19,Surgery,Stable,1,Yes
+48,Female,,Cough,COVID-19,Hydration,Critical,8,
+30,Male,,,COVID-19,Rest,Critical,7,No
+38,Female,North,Fever,Common Cold,Hydration,Recovered,6,Yes
+72,Female,East,Body Pain,Typhoid,Therapy,Recovered,7,Yes
+80,Male,West,Body Pain,COVID-19,Therapy,Stable,6,No
+88,Male,South,,Typhoid,Medication,Stable,11,
+12,Male,,Cough,Common Cold,Medication,Critical,5,Yes
+15,Female,North,Cough,Typhoid,Surgery,Recovered,8,Yes
+11,Male,North,Headache,Malaria,Therapy,Recovered,3,Yes
+-5,Male,West,,Typhoid,Therapy,Critical,9,
+6,Other,East,Headache,Common Cold,Medication,Improving,11,Yes
+15,Male,West,Fatigue,COVID-19,Rest,Improving,3,No
+66,Male,West,Headache,Malaria,Hydration,Recovered,9,
+10,Female,South,Body Pain,Common Cold,Rest,Recovered,9,No
+15,Male,East,Cough,Common Cold,Therapy,Stable,5,No
+77,Male,West,Headache,Common Cold,Medication,Recovered,5,No
+25,Male,,Headache,Malaria,Rest,Recovered,2,Yes
+11,Female,South,Body Pain,COVID-19,Surgery,Stable,7,No
+47,Male,North,Fever,Common Cold,Hydration,Recovered,7,Yes
+99,,West,,COVID-19,Rest,Recovered,8,No
+46,Female,South,Fatigue,Common Cold,Medication,Recovered,12,Yes
+47,Female,South,Fever,Typhoid,Rest,,3,Yes
+32,Female,South,Fatigue,Common Cold,Medication,Recovered,4,Yes
+87,Male,,Fever,Common Cold,Medication,Improving,6,Yes
+150,Female,East,,Common Cold,Therapy,Recovered,6,Yes
+97,Male,West,,COVID-19,Medication,Recovered,3,No
+93,Male,North,Headache,Malaria,Medication,Recovered,12,No
+14,,,Cough,Malaria,Rest,Critical,0,Yes
+80,Male,,Body Pain,Typhoid,Medication,Recovered,1,
+28,Female,South,,COVID-19,Hydration,Improving,7,Yes
+31,Male,West,Headache,Common Cold,Hydration,Recovered,6,No
+26,Female,East,Cough,COVID-19,Hydration,Improving,7,No
+34,Other,East,Body Pain,Malaria,Hydration,Recovered,7,No
+54,Male,West,Headache,COVID-19,Rest,Improving,9,Yes
+5,Female,North,Cough,Typhoid,Therapy,Stable,6,Yes
+35,Female,North,Cough,Typhoid,Rest,Critical,6,No
+30,Female,South,Fatigue,Malaria,Medication,Recovered,4,Yes
+16,Male,East,Headache,Typhoid,Hydration,Recovered,0,No
+18,Female,West,Body Pain,Malaria,Medication,Improving,4,No
+150,Male,North,,Common Cold,Therapy,Deceased,8,Yes
+32,Male,North,Headache,Typhoid,Medication,Stable,7,No
+88,Female,North,Headache,Malaria,Medication,Recovered,8,Yes
+6,Male,,Fever,Typhoid,Rest,Stable,4,No
+20,Other,West,Fatigue,,Therapy,Recovered,5,No
+67,,North,,Malaria,Medication,Recovered,7,No
+28,Female,,Headache,Typhoid,Medication,Stable,6,Yes
+13,Male,,Cough,Malaria,Rest,Recovered,8,Yes
+31,,South,Cough,Typhoid,Hydration,Improving,3,No
+39,Female,South,Cough,Common Cold,Rest,Recovered,5,No
+82,Female,,Headache,Flu,Rest,Improving,4,
+48,Female,West,Fatigue,Typhoid,Therapy,Recovered,8,Yes
+38,Male,East,Cough,Malaria,Therapy,Critical,9,Yes
+6,Female,South,Cough,Typhoid,Hydration,Improving,4,No
+20,Male,East,Fever,Typhoid,Surgery,Stable,13,Yes
+-5,Female,West,,Malaria,Medication,Improving,6,
+39,Male,North,Fever,Typhoid,Hydration,Recovered,13,Yes
+74,Female,West,,Common Cold,Therapy,Critical,4,Yes
+45,Male,East,Fever,Malaria,Medication,Recovered,9,Yes
+61,Female,,Fever,Typhoid,Medication,Recovered,4,Yes
+21,Male,,Fever,COVID-19,Hydration,Improving,5,
+70,Female,,Fatigue,Malaria,Rest,Recovered,9,No
+67,Female,North,Cough,Malaria,,Recovered,10,Yes
+35,Male,South,,COVID-19,Therapy,Recovered,4,Yes
+7,Male,South,Body Pain,Common Cold,Therapy,Improving,7,Yes
+2,Female,South,Headache,Typhoid,Therapy,Recovered,8,Yes
+94,Male,,Body Pain,COVID-19,Medication,Recovered,6,No
+31,Male,West,Cough,Typhoid,Rest,Recovered,7,No
+34,Female,West,Body Pain,COVID-19,Therapy,Critical,4,No
+22,Male,East,Headache,Common Cold,Medication,Deceased,0,No
+150,Female,,,Common Cold,Medication,Improving,5,No
+54,Male,West,Fatigue,Malaria,Hydration,Recovered,8,No
+35,Male,South,Body Pain,Typhoid,Medication,Recovered,11,Yes
+61,Female,South,Fever,Malaria,Hydration,Stable,7,Yes
+21,Female,North,Body Pain,Common Cold,Hydration,Recovered,7,Yes
